@@ -17,7 +17,7 @@ import java.util.Date;
 
 @SpringBootApplication
 @EnableTask
-@EnableConfigurationProperties
+@EnableConfigurationProperties(SimpleTaskProperties.class)
 public class CloudtaksdemoApplication {
 
 	@Bean
