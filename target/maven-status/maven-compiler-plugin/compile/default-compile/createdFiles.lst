@@ -1,2 +1,5 @@
 com/cloudtask/demo/cloudtaksdemo/SimpleTaskProperties.class
+com/cloudtask/demo/cloudtaksdemo/SparkClientTaskConfiguration.class
+com/cloudtask/demo/cloudtaksdemo/CloudtaksdemoApplication$SparkAppClientRunner.class
 com/cloudtask/demo/cloudtaksdemo/CloudtaksdemoApplication.class
+com/cloudtask/demo/cloudtaksdemo/CloudtaksdemoApplication$1.class
