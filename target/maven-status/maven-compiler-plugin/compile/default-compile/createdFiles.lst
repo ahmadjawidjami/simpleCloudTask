@@ -1,4 +1,4 @@
-com/cloudtask/demo/cloudtaksdemo/SimpleTaskProperties.class
-com/cloudtask/demo/cloudtaksdemo/CloudtaksdemoApplication$SparkAppClientRunner.class
-com/cloudtask/demo/cloudtaksdemo/CloudtaksdemoApplication.class
-com/cloudtask/demo/cloudtaksdemo/CloudtaksdemoApplication$1.class
+org/springframework/cloud/task/app/timestamp/TimestampTaskConfiguration.class
+org/springframework/cloud/task/app/timestamp/TimestampTaskProperties.class
+org/springframework/cloud/task/app/timestamp/Application.class
+org/springframework/cloud/task/app/timestamp/TimestampTaskConfiguration$TimestampTask.class

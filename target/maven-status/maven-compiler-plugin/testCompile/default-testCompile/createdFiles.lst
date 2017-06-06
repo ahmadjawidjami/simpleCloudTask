@@ -1,0 +1,4 @@
+org/springframework/cloud/task/app/timestamp/TimestampTaskTests$TestTimestampTaskApplication.class
+org/springframework/cloud/task/app/timestamp/TimestampTaskTests.class
+org/springframework/cloud/task/app/timestamp/TimestampTaskPropertiesTests$Conf.class
+org/springframework/cloud/task/app/timestamp/TimestampTaskPropertiesTests.class
